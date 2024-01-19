@@ -1,4 +1,3 @@
-
 class Words:
     def __init__(self):
         self._content=[]
