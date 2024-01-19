@@ -15,6 +15,7 @@ constructor of the class, i make an object for Words export over to the hangman.
 a setter in the class
 
 Examples of OOP and other features that i have learnt through this project:
+
 class definition - i made both classes
 encapsulation with constructors getters/setters and properties - in the constructors and methods of both my classes i do this
 encapsulation - adding checks to confirm the data types passed to the contructors and setters in both classes if python throws
