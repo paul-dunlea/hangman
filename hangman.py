@@ -1,4 +1,3 @@
-#student no:122452762
 from settings import Settings
 import random
 from wordlist_file import *
