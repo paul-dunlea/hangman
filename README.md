@@ -17,16 +17,16 @@ a setter in the class
 Examples of OOP and other features that i have learnt through this project:
 
 Markup : * class definition - i made both classes
-encapsulation with constructors getters/setters and properties - in the constructors and methods of both my classes i do this
-encapsulation - adding checks to confirm the data types passed to the contructors and setters in both classes if python throws
+         * encapsulation with constructors getters/setters and properties - in the constructors and methods of both my classes i do this
+         * encapsulation - adding checks to confirm the data types passed to the contructors and setters in both classes if python throws
                 an error i made it so that it prints back a user friendly error message
-inheritance - super class is Settings, Settings class is inherited by Game class.
-inhertiance - extension of the Settings class in the Game class.Both classes have string classes
-getters and setters - i used getters and setters across all 3 classes i used to determine whether an input is valid and to show
+         * inheritance - super class is Settings, Settings class is inherited by Game class.
+         * inhertiance - extension of the Settings class in the Game class.Both classes have string classes
+         * getters and setters - i used getters and setters across all 3 classes i used to determine whether an input is valid and to show
                     it to the user, etc.
-aggregation -  in the constructors i have used aggregation to define the attributes, example self._word=word
-aggregation - i also used aggregation get the list of random words
-operator overloading - defined the meaning of operations i used with methods called __eq__ and __nt__
-interpolation - in the __str__ method i returned a string with the attributes of the Game class using interpolation
+         * aggregation -  in the constructors i have used aggregation to define the attributes, example self._word=word
+         * aggregation - i also used aggregation get the list of random words
+         * operator overloading - defined the meaning of operations i used with methods called __eq__ and __nt__
+         * interpolation - in the __str__ method i returned a string with the attributes of the Game class using interpolation
 
 
